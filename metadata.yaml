@@ -1,0 +1,34 @@
+_repo: Milton-s-England_34526
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34526-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mead, Lucia True Ames
+    aliases:
+    - Ames, Lucia True
+    - Mead, Lucia Ames
+    birthdate: 1856
+    deathdate: 1936
+    gutenberg_agent_id: '37068'
+    url: http://www.gutenberg.org/2009/agents/37068
+description: ''
+gutenberg_issued: '2010-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34526'
+  lccn: '02023627'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literary landmarks -- England'
+- !lcsh 'Literary landmarks -- England -- London'
+- !lcsh 'Milton, John, 1608-1674 -- Homes and haunts'
+- !lcc 'PR'
+- !lcsh 'England -- Intellectual life -- 17th century'
+- !lcsh 'Poets, English -- Homes and haunts -- England'
+title: Milton's England
+url: http://www.gutenberg.org/ebooks/34526
